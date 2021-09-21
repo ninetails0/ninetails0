@@ -7,3 +7,5 @@
     gets(sex); // haha funny
      
     printf("penis size: %i\n", penis_size);
+
+![weeeeeeee](https://pasteboard.co/rU7UuwVFZAI2.jpg)
