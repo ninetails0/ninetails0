@@ -9,4 +9,3 @@
     printf("penis size: %i\n", penis_size);
 
 <img align="right" alt="Coding" width="400" src="https://pasteboard.co/rU7UuwVFZAI2.jpg">
-![](https://pasteboard.co/rU7UuwVFZAI2.jpg)
