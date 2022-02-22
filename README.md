@@ -5,6 +5,6 @@ hey,
 
 @@still learning stuff@@
 - 17 years old
-! program engineer, mainly paster
+! program engineer
 # 📖 reverse engineering, computer science
 ```
