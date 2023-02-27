@@ -4,7 +4,7 @@
 hey,
 
 @@still learning stuff@@
-- 18 years old
+- 19 years old
 ! program engineer
 # 📖 reverse engineering, computer science
 ```
