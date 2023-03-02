@@ -3,7 +3,7 @@
 ```diff
 hey,
 
-@@still learning stuff@@
+@@fudge battlrat@@
 - 19 years old
 ! program engineer
 # 📖 reverse engineering, computer science
